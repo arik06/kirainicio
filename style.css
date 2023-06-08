@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+
+body{
+    margin: 0;
+
+    min-width: 600px;
+}
+header{
+    display: flex;
+    height: 100px;
+    background-color: black;
+    align-items: center;
+    padding: 10px;
+justify-content: space-evenly;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+  margin-top: 10px;
+}
+
+.text{
+    margin-left: -10px;
+    color: white;
+    font-family: 'Monoton', cursive;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: #95389E;
+}
