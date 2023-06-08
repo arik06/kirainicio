@@ -43,3 +43,7 @@ a{
 a:hover{
     color: #95389E;
 }
+
+.nav-link {
+    margin-right: 20px;
+}
